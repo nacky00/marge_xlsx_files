@@ -10,3 +10,4 @@ python3 marge.py
 ## 注意
 * 作業前は output フォルダ内を空にする
 * 作業後は input フォルダ内を空にする（前回実行時の input が output.xlsx に反映されてしまうため）
+* input は xlsx ファイルか csv ファイルのみ入れる（xlsは不可）
